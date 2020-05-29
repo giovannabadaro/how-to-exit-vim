@@ -789,3 +789,7 @@ func main() {
 
 3. Run with `go run .` or make executable using `go build -o VimKill`
 
+## The Lay Way
+Credit: @giovannabadaro
+
+Switch computer
